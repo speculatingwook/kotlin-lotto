@@ -1,5 +1,3 @@
-class Application {
-    fun main() {
-
-    }
+fun main() {
+    println("ls")
 }
